@@ -9,7 +9,7 @@ You have to download the entire part of the repository and put it in your projec
 
 You should now change the 3 names at the top of the script:
 	mainJava which is the path to your Main.java
-	main=tools.which is the path to your Main
+	main which is the path to your Main
 	controllersPackage which is the package containing all the controllers
 
 
