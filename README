@@ -1,0 +1,20 @@
+Author : HERT Sébastien
+
+
+This file explains how to run the project for everyone who has a Linus Distribution.
+
+
+
+You have to download the entire part of the repository and put it in your project folder
+
+You should now change the 3 names at the top of the script:
+	mainJava which is the path to your Main.java
+	main=tools.which is the path to your Main
+	controllersPackage which is the package containing all the controllers
+
+
+Last but not least, you need to run the shell script by using the command : ./run.sh
+
+It is supposed to work.
+
+
